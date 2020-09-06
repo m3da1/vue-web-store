@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-store-app
 
 ## Project setup
